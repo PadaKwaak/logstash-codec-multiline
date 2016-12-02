@@ -1,3 +1,6 @@
+## 3.0.8.1
+  - Add event sequencer functionality
+
 ## 3.0.8
   - Update gemspec summary
 
